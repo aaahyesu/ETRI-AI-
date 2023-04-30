@@ -63,12 +63,12 @@ git clone <this_repo>
 
 #### 실행
 * BERT
-  * 위치: model/BERT/data/main.py
+  * 위치: model/BERT/data/BERT_R.py
 ```
 버트 실행시키는 명령어 치기
 ```
 * LSTM   
-  * 위치: model/CLSTM/data/BERT_R.py
+  * 위치: model/CLSTM/data/main.py
   * main.py파일에서 **Config_Model_Type = "LSTM"** 으로 변경 후 저장합니다. 
 ```
 python main.py
