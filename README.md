@@ -65,8 +65,15 @@ install 형태로 다쓸지
 <img src="https://user-images.githubusercontent.com/69641554/235355120-9240b70c-2a9b-4254-992e-cda4af8aca70.png" width=500>
 
 ### 모델 실행 방법
-
-
+* BERT
+```
+```
+* LSTM
+```
+```
+* CNN-LSTM
+```
+```
 ### 결과
 
                  
