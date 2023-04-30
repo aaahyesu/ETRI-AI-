@@ -80,13 +80,13 @@ install 형태로 다쓸지
 ```
 * LSTM   
   * 위치: 
-  * main.py파일에서 **config_Model_Type = "LSTM"**으로 변경 후 저장합니다. 
+  * main.py파일에서 **config_Model_Type = "LSTM"** 으로 변경 후 저장합니다. 
 ```
 python main.py
 ```
 * CNN-LSTM
   * 위치:
-  * main.py파일에서 **config_Model_Type = "CLSTM"**으로 변경 후 저장합니다. 
+  * main.py파일에서 **config_Model_Type = "CLSTM"** 으로 변경 후 저장합니다. 
 ```
 python main.py
 ```
