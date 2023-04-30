@@ -9,6 +9,32 @@
 install 형태로 다쓸지 
 환경 세팅처럼 할지 고민
 ```
+### Directory
+* 데이터 Directory
+ 'ETRI_2022_AI_Competition/data' 폴더에 넣으세요.
+```
+ <2023_ETRI_AI_Competition>
+                    ├ <2020>
+                        └ <user01-30>
+                            ├ <user01>
+                            ├ ...
+                            └ <user30>  
+                                ├ <1598827200>
+                                ├ ...
+                                └ <1601165700>
+                                    ├ ...
+                                    └ 1601165700_label.csv
+                        ├ user_info_2020.csv
+                        └ user_sleep_2020.csv
+
+                    ├ prerprocessing.ipynb
+                    ├ constants.py
+                    ├ model.py
+                    ├ utils.py
+                    ├ requirements.txt
+                    └ README.md
+```   
+
 ### 데이터셋
 * [ETRI 라이프로그 데이터셋 (2020-2018)](https://nanum.etri.re.kr/share/schung1/ETRILifelogDataset2020?lang=ko_KR) 에서 아래 파일들을 다운로드합니다. 
   - user01-06 data (user01-06.7z)
@@ -38,32 +64,9 @@ install 형태로 다쓸지
 ### Model Architecture
 <img src="https://user-images.githubusercontent.com/69641554/235355120-9240b70c-2a9b-4254-992e-cda4af8aca70.png" width=500>
 
-### 실행 방법
-### 디렉토리 설명
+### 모델 실행 방법
+
 
 ### 결과
 
-
- 'ETRI_2022_AI_Competition/data' 폴더에 넣으세요.
-```
- <2023_ETRI_AI_Competition>
-                    ├ <2020>
-                        └ <user01-30>
-                            ├ <user01>
-                            ├ ...
-                            └ <user30>  
-                                ├ <1598827200>
-                                ├ ...
-                                └ <1601165700>
-                                    ├ ...
-                                    └ 1601165700_label.csv
-                        ├ user_info_2020.csv
-                        └ user_sleep_2020.csv
-
-                    ├ prerprocessing.ipynb
-                    ├ constants.py
-                    ├ model.py
-                    ├ utils.py
-                    ├ requirements.txt
-                    └ README.md
-```                    
+                 
