@@ -9,6 +9,16 @@
 install 형태로 다쓸지 
 환경 세팅처럼 할지 고민
 ```
+### 데이터셋
+* [ETRI 라이프로그 데이터셋 (2020-2018)](https://nanum.etri.re.kr/share/schung1/ETRILifelogDataset2020?lang=ko_KR) 에서 아래 파일들을 다운로드합니다. 
+  - user01-06 data (user01-06.7z)
+  - user07-10 data (user07-10.7z)
+  - user11-12 data (user11-12.7z)
+  - user21-25 data (user21-25.7z)
+  - user26-30 data (user26-30.7z)
+  - 2020 실험자별 정보 (user_info_2020.csv)
+  - 2020 수면 측정 데이터 (user_sleep_2020.csv)
+
 ### Directory
 * 데이터 Directory
  'ETRI_2022_AI_Competition/data' 폴더에 넣으세요.
@@ -35,15 +45,6 @@ install 형태로 다쓸지
                     └ README.md
 ```   
 
-### 데이터셋
-* [ETRI 라이프로그 데이터셋 (2020-2018)](https://nanum.etri.re.kr/share/schung1/ETRILifelogDataset2020?lang=ko_KR) 에서 아래 파일들을 다운로드합니다. 
-  - user01-06 data (user01-06.7z)
-  - user07-10 data (user07-10.7z)
-  - user11-12 data (user11-12.7z)
-  - user21-25 data (user21-25.7z)
-  - user26-30 data (user26-30.7z)
-  - 2020 실험자별 정보 (user_info_2020.csv)
-  - 2020 수면 측정 데이터 (user_sleep_2020.csv)
  
 ### 데이터 전처리
   1. user01 - user30 데이터 전처리   
