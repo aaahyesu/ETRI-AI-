@@ -90,6 +90,5 @@ python main.py
 ```
 python main.py
 ```
-### 결과
 
                  
