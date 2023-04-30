@@ -21,7 +21,6 @@ install 형태로 다쓸지
 
 ### Directory
 * 데이터 Directory
- 'ETRI_2022_AI_Competition/data' 폴더에 넣으세요.
 ```
  <2023_ETRI_AI_Competition>
                     ├ <2020>
