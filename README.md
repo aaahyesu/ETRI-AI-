@@ -4,13 +4,6 @@
 
 ## 라이프로그와 수면의 정보 연관성을 활용한 수면의 질 예측 알고리즘
 
-### Setup
-```
-install 형태로 다쓸지 
-환경 세팅처럼 할지 고민
-```
-```
-```
 ### 데이터셋
 * [ETRI 라이프로그 데이터셋 (2020-2018)](https://nanum.etri.re.kr/share/schung1/ETRILifelogDataset2020?lang=ko_KR) 에서 아래 파일들을 다운로드합니다. 
   - user01-06 data (user01-06.7z)
@@ -67,6 +60,15 @@ install 형태로 다쓸지
 <img src="https://user-images.githubusercontent.com/69641554/235355120-9240b70c-2a9b-4254-992e-cda4af8aca70.png" width=500>
 
 ### 모델 실행 방법
+#### 실행 준비
+* Setup
+```
+install 형태로 다쓸지 
+환경 세팅처럼 할지 고민
+```
+```
+```
+#### 실행
 * BERT
   * 위치: /Bert (버트 위치로 수정하기)
 ```
