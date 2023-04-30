@@ -15,7 +15,6 @@
   - 2020 수면 측정 데이터 (user_sleep_2020.csv)
 
 ### Directory
-* 데이터 Directory
 ```
  <2023_ETRI_AI_Competition>
                     ├ <2020>
