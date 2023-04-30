@@ -29,7 +29,6 @@ requirements libraries를 확인합니다 : pip install -r requirements.txt
 
 
 
-<code>test code </code>
  'ETRI_2022_AI_Competition/data' 폴더에 넣으세요.
 
  <2023_ETRI_AI_Competition>
