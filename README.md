@@ -2,21 +2,30 @@
 ==========
 [제2회 ETRI 휴먼이해 인공지능 논문경진대회](https://aifactory.space/competition/detail/2234)
 <br>
-# 라이프로그와 수면의 정보 연관성을 활용한 수면의 질 예측 알고리즘
+## 라이프로그와 수면의 정보 연관성을 활용한 수면의 질 예측 알고리즘
 
-## Setup
+### Setup
 
+### 데이터셋
+* [ETRI 라이프로그 데이터셋 (2020-2018)](https://nanum.etri.re.kr/share/schung1/ETRILifelogDataset2020?lang=ko_KR) 에서 아래 파일들 다운로드
+  - user01-06 data
+  - user07-10 data
+  - user11-12 data
+  - user21-25 data
+  - user26-30 data
+  - 2020 실험자별 정보
+  - 2020 수면 측정 데이터
+ 
+### 데이터 전처리
 
-## 데이터셋
+### 데이터 분석 결과
 
+### Model Architecture
 
-## 데이터 전처리
+### 실행 방법
+### 디렉토리 설명
 
-## 데이터 분석 결과
-
-## Model Architecture
-
-## 실행
+### 결과
 
 <br>
 <br>
