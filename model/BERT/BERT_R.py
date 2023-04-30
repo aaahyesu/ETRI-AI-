@@ -20,8 +20,8 @@ print("Train shuffle= True, Eval shuffle= True")
 print(f"num_classes = {num_classes}")
 print(f"lr = {learning_rate}\n\n")
 
-train_df = pd.read_csv('./BERT/BERT_train.csv')
-test_df = pd.read_csv('./BERT/BERT_test.csv')
+train_df = pd.read_csv('./data/BERT_train.csv')
+test_df = pd.read_csv('./data/BERT_test.csv')
 
 #결측치 제거
 train_df.dropna(inplace=True)
