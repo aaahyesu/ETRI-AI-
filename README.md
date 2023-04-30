@@ -31,10 +31,6 @@
                         └ user_sleep_2020.csv
 
                     ├ prerprocessing.ipynb
-                    ├ constants.py
-                    ├ model.py
-                    ├ utils.py
-                    ├ requirements.txt
                     └ README.md
 ```   
 
@@ -64,27 +60,21 @@
 ```
 git clone <this_repo>
 ```
-* Setup
-```
-install 형태로 다쓸지 
-환경 세팅처럼 할지 고민
-```
-```
-```
+
 #### 실행
 * BERT
-  * 위치: /Bert (버트 위치로 수정하기)
+  * 위치: model/BERT/data/main.py
 ```
 버트 실행시키는 명령어 치기
 ```
 * LSTM   
-  * 위치: 
+  * 위치: model/CLSTM/data/BERT_R.py
   * main.py파일에서 **Config_Model_Type = "LSTM"** 으로 변경 후 저장합니다. 
 ```
 python main.py
 ```
 * CNN-LSTM
-  * 위치:
+  * 위치: model/CLSTM/data/main.py
   * main.py파일에서 **Config_Model_Type = "CLSTM"** 으로 변경 후 저장합니다. 
 ```
 python main.py
