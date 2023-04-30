@@ -36,6 +36,7 @@ install 형태로 다쓸지
       (자세한 데이터 전처리 과정은 **preprocessing.ipynb**파일 참고바랍니다.)   
       
 ### Model Architecture
+<img src="https://user-images.githubusercontent.com/69641554/235355120-9240b70c-2a9b-4254-992e-cda4af8aca70.png">
 
 ### 실행 방법
 ### 디렉토리 설명
