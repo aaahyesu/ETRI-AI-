@@ -61,6 +61,10 @@
 
 ### 모델 실행 방법
 #### 실행 준비
+* git clone
+```
+git clone <this_repo>
+```
 * Setup
 ```
 install 형태로 다쓸지 
