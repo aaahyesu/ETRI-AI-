@@ -5,7 +5,10 @@
 ## 라이프로그와 수면의 정보 연관성을 활용한 수면의 질 예측 알고리즘
 
 ### Setup
-
+```
+install 형태로 다쓸지 
+환경 세팅처럼 할지 고민
+```
 ### 데이터셋
 * [ETRI 라이프로그 데이터셋 (2020-2018)](https://nanum.etri.re.kr/share/schung1/ETRILifelogDataset2020?lang=ko_KR) 에서 아래 파일들 다운로드
   - user01-06 data
