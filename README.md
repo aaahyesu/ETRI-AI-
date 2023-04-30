@@ -65,7 +65,7 @@ git clone <this_repo>
 * BERT
   * 위치: model/BERT/data/BERT_R.py
 ```
-버트 실행시키는 명령어 치기
+python BERT_R.py
 ```
 * LSTM   
   * 위치: model/CLSTM/data/main.py
