@@ -9,6 +9,8 @@
 install 형태로 다쓸지 
 환경 세팅처럼 할지 고민
 ```
+```
+```
 ### 데이터셋
 * [ETRI 라이프로그 데이터셋 (2020-2018)](https://nanum.etri.re.kr/share/schung1/ETRILifelogDataset2020?lang=ko_KR) 에서 아래 파일들을 다운로드합니다. 
   - user01-06 data (user01-06.7z)
