@@ -68,13 +68,21 @@ install 형태로 다쓸지
 
 ### 모델 실행 방법
 * BERT
+  * 위치: /Bert (버트 위치로 수정하기)
 ```
+버트 실행시키는 명령어 치기
 ```
-* LSTM
+* LSTM   
+  * 위치: 
+  * main.py파일에서 **config_Model_Type = "LSTM"**으로 변경 후 저장합니다. 
 ```
+python main.py
 ```
 * CNN-LSTM
+  * 위치:
+  * main.py파일에서 **config_Model_Type = "CLSTM"**으로 변경 후 저장합니다. 
 ```
+python main.py
 ```
 ### 결과
 
